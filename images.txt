@@ -1,2 +1,2 @@
 redis:7.2.4
-swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:${RAGFLOW_VERSION}
+swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow
